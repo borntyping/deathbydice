@@ -1,9 +1,15 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 header h1,
 footer span.ribbon-inner a {
   text-transform: unset !important;
 }
 
-@import "{{ site.theme }}";
+footer span.ribbon-inner a {
+  font: inherit;
+  position: unset;
+  bottom: unset;
+}
