@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Cragmore Cavern"
 author: "Sam Clements"
 ---
