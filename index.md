@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Lost Mine of Phandelver
 
-You can use the [editor on GitHub](https://github.com/borntyping/deathbydice/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Cragmore Cavern
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+_(2018-03-11)._
 
-### Markdown
+They travelled south from Neverwinter along the High Road, turning off to follow the Triboar trail east towards Phandalin. Along the way, they are ambushed by a band of goblins. They followed the goblin's tracks to the source, leading to a cavern. They fought through the cavern, defeating the Golbin's bugbear leader - Klarg - and rescuing **Sildar Hallwinter**, a wounded warrior of the Lord's Alliance who had been travelling with **Gundren Rockseeker**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Backstory
 
-```markdown
-Syntax highlighted code block
+An unnamed party of five adventurers - **Kilubash** (a Half-Orc Barbarian), **Margaret** (an Aasimar Paladin), **Myastan Sora** (a Dragonborn Sorcerer), and **Varis** (an Elf Wizard) - begin with a contract to escort a cargo to Phandalin for a dwarf named **Gundren Rockseeker**.
 
-# Header 1
-## Header 2
-### Header 3
+### House rules
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/borntyping/deathbydice/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Advancement is done using milestones rather than XP.
+* Encumbrance is not used.
+* Hit points use a homebrew variant rule. Roll hit point dice as usual, but use the higher of your roll and the average roll (as with everything else, round down). Example: when rolling d8, a roll of 2 becomes 4, a roll of 7 stays 7.
+* Ability scores should use point buy (with 27 points).
+* Multiclassing is not used. Occasional exceptions are made for plot reasons.
+* Additional sourcebooks are allowed. It's suggested but not required that you keep to the Player's Handbook plus one additional sourcebook, based on the rule used for the D&D Adventurer's League.
