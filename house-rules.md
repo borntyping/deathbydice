@@ -1,6 +1,5 @@
 ---
-layout: post
-title: "### House rules"
+title: "House rules"
 author: "Sam Clements"
 permalink: /house-rules/
 ---
