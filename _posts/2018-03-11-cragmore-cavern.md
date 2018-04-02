@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cragmore Cavern"
-author: "Chester"
+author: "Sam Clements"
 ---
 
 An unnamed party of five adventurers - **Kilubash** (a Half-Orc Barbarian), **Margaret** (an Aasimar Paladin), **Myastan Sora** (a Dragonborn Sorcerer), and **Varis** (an Elf Wizard) - begin with a contract to escort a cargo to Phandalin for a dwarf named **Gundren Rockseeker**.
