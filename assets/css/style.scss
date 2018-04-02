@@ -3,13 +3,21 @@
 
 @import "{{ site.theme }}";
 
-header h1,
-footer span.ribbon-inner a {
+header h1 {
   text-transform: unset !important;
+}
+
+header h2 {
+  padding-top: 14px;
 }
 
 footer span.ribbon-inner a {
   font: inherit;
   position: unset;
   bottom: unset;
+  text-transform: unset !important;
+}
+
+footer span.ribbon-inner p {
+  padding: 1em;
 }
