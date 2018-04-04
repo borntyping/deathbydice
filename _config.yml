@@ -1,4 +1,6 @@
-theme: jekyll-theme-merlot
 title: "Death by Dice"
 description: "Dungeons and Dragons campaign journals"
+
 google_analytics: "UA-46795434-8"
+permalink: pretty
+theme: jekyll-theme-merlot
