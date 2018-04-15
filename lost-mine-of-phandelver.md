@@ -1,13 +1,14 @@
 ---
-title: "Lost Mine of Phandelver"
-author: "Sam Clements"
+title: Lost Mine of Phandelver
+author: Sam Clements
+published: true
 ---
 
 # Lost Mine of Phandelver
 
 ## Cragmore Cavern
 
-*20th Kython 1493DR*
+*20th Kythorn 1493DR*
 
 An unnamed party of five adventurers - **Kilubash** (a Half-Orc Barbarian), **Margaret** (an Aasimar Paladin), **Myastan Sora** (a Dragonborn Sorcerer), **Varis** (an Elf Wizard) and **Viscomtesse Ecureuil Roux** (a Gnome Ranger) - begin with a contract to escort a cargo to Phandalin for a dwarf named **Gundren Rockseeker**.
 
@@ -15,7 +16,7 @@ The party of adventurers travelled south from Neverwinter along the High Road, t
 
 ## Phandalin
 
-*21st Kython 1493DR*
+*21st Kythorn 1493DR*
 
 The party arrived at Phandalin, with Sildar Hallwinter not yet recovered and Myastan Sora fallen ill. A payment of 50gp was collected from **Elmar Barthen** for delivery of their cargo, after which the party decided to find an inn to stay at. They heard several rumors, mostly about the **Redbrands**, a gang shaking down local businesses.
 
@@ -29,13 +30,13 @@ Margaret, Varis and Roux headed towards Tresendar Manor as soon as it got dark, 
 
 ## Tresendar Manor
 
-_21st Kython 1493DR_
+_21st Kythorn 1493DR_
 
 Late in the evening Sora - feeling much better after a days rest - was nervoursly encouraged by **Toblen Stonehill** (the proprietor of the Stonehill Inn) to take something for his health and go for a walk, maybe talk to Sildar. After being ushered out of the inn and talking to Sildar in the Townmaster's hall, he discovered that the others hadn't come back after heading towards Trensador Manor, hideout for the Redbrands.
 
 Meanwhile, Varis miraculously recovered from his injuries and tried to escape the pit, and was given a hand up by **Iarno Albrek**, a wizard and leader of the Redbrands. Varis and other unconsious party members soon found themselves imprisoned in the cells they earlier rescued Kilubash from, and were soon joined by Sora when he tried to sneak into the manor's cellar and fell victim to the same pit trap. With the party all back together again, they took the chance to rest overnight.
 
-_22nd Kython 1493D_
+_22nd Kythorn 1493D_
 
 In the morning Roux set a trap for the gaurds using an illusion after earlier picking the locks on the cell doors. They jumped the guards when they came in, and proceded to explore the rest of the cellars. The cellars surrounded a ravine crossed by wooden bridges, and as they waled across they each heard a whispering voice searching through their head for secrets. They fought a room full of bugbears who were tormenting a small goblin, which did not survive after Varis filled the room with fire by casting _Burning Hands_. Another room recently occupied by more of the Redbrands who had been gambling was intimidated into leaving.
 
