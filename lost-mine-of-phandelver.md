@@ -46,4 +46,12 @@ There was no sign of Iarno Albrek himself, and while trying to leave  the party 
 
 ## The Triboar Trail
 
-_23rd Kythorn 1493D; with Kilubash, Margaret, Sora, and Varis._
+_23rd-25th Kythorn 1493D; with Kilubash, Margaret, Sora, and Varis._
+
+With no leads to follow on Iarno Albrek or Cragmore Castle, the party of adventurers set off along the Triboar Trail to complete various requests from the people of Phandelver.
+
+They first dealt with Sister Garaele's request to visit the banshee Agatha, and delivered the jewelled comb in exchange for to the answer to a question. They asked about Bowgentle's spellbook, and Agatha told them that she traded the book to a necromancer named Tsernoth from the city of Iriaebor more than a hundred years ago, before disappearing.
+
+Next they visited Old Owl Well at the request of **Daran Edermath**, a retired paladin. There they found the ancient ruins of a forgotten empires watchtower, occupied by a necromancer - **Hamun Kost** and his zombies. The adventures spoke with him when he called off his zombies from attacking, and Hamun requested that the party ask a question of Agatha ("What is the name of the wizard who built the tower at Old Owl Well?" - but the adventurers know she may not appear to answer a second question), and that they remove the orc scouting party at Wyvern Tor.
+
+They headed south to Wyvern Tor, encountering a huge ogre along the way, before making camp as the sun set on their third day on the Triboar Trail.
