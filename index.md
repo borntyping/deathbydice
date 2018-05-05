@@ -1,10 +1,12 @@
 ---
-title: "Home"
+title: Home
+published: true
 ---
 
 ## Campaigns
 
-* [Lost Mine of Phandelver][lmop]
+* Princes of the Apocalypse (1491 DR)
+* [Lost Mine of Phandelver][lmop] (Kilubash, Margaret, Roux, Sora, and Varis; 1983 DR)
 
 ## Notes
 
