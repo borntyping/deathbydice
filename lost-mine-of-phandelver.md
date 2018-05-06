@@ -55,3 +55,11 @@ They first dealt with Sister Garaele's request to visit the banshee Agatha, and 
 Next they visited Old Owl Well at the request of **Daran Edermath**, a retired paladin. There they found the ancient ruins of a forgotten empires watchtower, occupied by a necromancer - **Hamun Kost** and his zombies. The adventures spoke with him when he called off his zombies from attacking, and Hamun requested that the party ask a question of Agatha ("What is the name of the wizard who built the tower at Old Owl Well?" - but the adventurers know she may not appear to answer a second question), and that they remove the orc scouting party at Wyvern Tor.
 
 They headed south to Wyvern Tor, encountering a huge ogre along the way, before making camp as the sun set on their third day on the Triboar Trail.
+
+## Wyvern Tor
+
+_25rd-28th Kythorn 1493D; with Kilubash, Margaret, Sora, and Varis._
+
+Attacked by orcs after a mysterious voice.
+
+Returned to Phandelver and talked to the people who gave them quests.
