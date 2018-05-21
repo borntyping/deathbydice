@@ -60,6 +60,6 @@ They headed south to Wyvern Tor, encountering a huge ogre along the way, before 
 
 _25rd-28th Kythorn 1493D; with Kilubash, Margaret, Sora, and Varis._
 
-Attacked by orcs after a mysterious voice.
+As the party awoke, they were greeted by a voice speaking to them from nowhere. It told them that it was disappointed they dissmissed it's earlier hospitality, but had decided to try again and bring them the gift of friendship - it had alerted the Orc scouting party they had been searching for to their location! If they survived, it continued, the party of adventurers woud find it in Cragmore Castle. It stopped speaking as the war cries of the Orcs started to reach them from a nearby summit, the start of a battle in which they slayed may orcs and an ogre.
 
-Returned to Phandelver and talked to the people who gave them quests.
+After the battle they headed back to Phandelver and travelled relatively peacefully. Once back at the village, they returned to many of the people who had given them quests to collect their reward, and picked up a new thread from the proprietor of the local inn which directed them north to Thundertree to speak with a druid who should know where Cragmore Castle or Wave Echo cave might be.
