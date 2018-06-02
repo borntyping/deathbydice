@@ -17,9 +17,14 @@ Anak (dragonborn bard), Barry (badger animal companion), Benrick (halfling fight
 
 Kilubash (half-orc barbarian), Margaret (human paladin), Roux (gnome ranger), Sora (dragonborn sorcerer), and Varis (elf wizard); 1483 DR.
 
+### [Tomb of Annihilation][toa]
+
+~1483 DR.
+
 ## Notes
 
 * [House rules][house-rules]
 
 [lmop]: lost-mine-of-phandelver.md
+[toa]: tomb-of-annihilation.md
 [house-rules]: house-rules.md
