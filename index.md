@@ -5,19 +5,29 @@ published: true
 
 ## Campaigns
 
-### Princes of the Apocalypse
+### Season 1
 
-Aaron (human sorcerer), Lynn (human monk), Rhen (human/genasi cleric), Solas (goliath paladin); 1491 DR.
+#### Princes of the Apocalypse
 
-### Curse of Strahd
+Aaron (human sorcerer), Lynn (human monk), Rhen (human/genasi cleric), Solas (goliath paladin); 1491 DR (2016AD).
 
-Anak (dragonborn bard), Barry (badger animal companion), Benrick (halfling fighter), Ezmerelda d'Avenir (human fighter), Michael (gnome wizard), Rufus (halfling ranger), Taptziel (tiefling bard); 1492 DR.
+### Season 2
 
-### [Lost Mine of Phandelver][lmop]
+#### Curse of Strahd
 
-Kilubash (half-orc barbarian), Margaret (human paladin), Roux (gnome ranger), Sora (dragonborn sorcerer), and Varis (elf wizard); 1483 DR.
+Anak (dragonborn bard), Barry (badger animal companion), Benrick (halfling fighter), Ezmerelda d'Avenir (human fighter), Michael (gnome wizard), Rufus (halfling ranger), Taptziel (tiefling bard); 1492 DR (2017AD).
 
-### [Tomb of Annihilation][toa]
+#### [Lost Mine of Phandelver][lmop]
+
+Kilubash (half-orc barbarian), Margaret (human paladin), Roux (gnome ranger), Sora (dragonborn sorcerer), and Varis (elf wizard); 1483 DR (2018AD).
+
+### Season 3 (2018)
+
+#### [Tales from the Yawning Portal[[tftyp]
+
+~1483 DR.
+
+#### [Tomb of Annihilation][toa]
 
 ~1483 DR.
 
@@ -27,4 +37,5 @@ Kilubash (half-orc barbarian), Margaret (human paladin), Roux (gnome ranger), So
 
 [lmop]: lost-mine-of-phandelver.md
 [toa]: tomb-of-annihilation.md
+[tftyp]: tales-from-the-yawning-portal.md
 [house-rules]: house-rules.md
