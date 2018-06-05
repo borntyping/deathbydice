@@ -21,9 +21,9 @@ Anak (dragonborn bard), Barry (badger animal companion), Benrick (halfling fight
 
 Kilubash (half-orc barbarian), Margaret (human paladin), Roux (gnome ranger), Sora (dragonborn sorcerer), and Varis (elf wizard); 1483 DR (2018AD).
 
-### Season 3 (2018)
+### Season 3
 
-#### [Tales from the Yawning Portal[[tftyp]
+#### [Tales from the Yawning Portal][tftyp]
 
 ~1483 DR.
 
