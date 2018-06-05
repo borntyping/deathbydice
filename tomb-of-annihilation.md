@@ -1,3 +1,7 @@
+---
+title: Tomb of Annhilation
+---
+
 # Tomb of Annhilation
 
 > For the past several days, the talk of the streets and taverns has all been about the so-called death curse: a wasting disease afflicting people who have been raised from the dead. Victims grow thinner and weaker each day, slowly but steadily sliding toward the death they once denied.
