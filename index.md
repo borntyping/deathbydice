@@ -1,6 +1,5 @@
 ---
 title: Home
-published: true
 ---
 
 ## Campaigns
