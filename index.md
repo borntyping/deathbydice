@@ -14,21 +14,21 @@ Aaron (human sorcerer), Lynn (human monk), Rhen (water genasi cleric), Solas (go
 
 #### Curse of Strahd
 
-Anak (dragonborn bard), Barry (badger animal companion), Benrick (halfling fighter), Ezmerelda d'Avenir (human fighter), Michael (gnome wizard), Rufus (halfling ranger), Taptziel (tiefling bard); 1492 DR. [🎲](/ "Sam Clements, 2017-2018")
+Anak (dragonborn bard), Barry (badger animal companion), Benrick (halfling fighter), Ezmerelda d'Avenir (human fighter), Michael (gnome wizard), Rufus (halfling ranger), Taptziel (tiefling bard); 1492 DR. [🎲](/ "Sam Clements, April 2017 to May 2018")
 
 #### [Lost Mine of Phandelver][lmop]
 
-Kilubash (half-orc barbarian), Margaret (human paladin), Roux (gnome ranger), Sora (dragonborn sorcerer), and Varis (elf wizard); 1493 DR. [🎲](/ "Sam Clements, 2018")
+Kilubash (half-orc barbarian), Margaret (human paladin), Roux (gnome ranger), Sora (dragonborn sorcerer), and Varis (elf wizard); 1493 DR. [🎲](/ "Sam Clements, March 2018 to May 2018")
 
 ### Season 3
 
 #### [Tales from the Yawning Portal][tftyp]
 
-~1493 DR.
+~1493 DR. [🎲](/ "Sam Clements, July 2018")
 
 #### [Tomb of Annihilation][toa]
 
-~1493 DR.
+~1493 DR. [🎲](/ "Sam Clements, 2018")
 
 ## Notes
 
