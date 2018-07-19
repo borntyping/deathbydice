@@ -24,7 +24,7 @@ Kilubash (half-orc barbarian, 💀), Margaret (human paladin, 💀), Roux (gnome
 
 #### [Tales from the Yawning Portal][tftyp]
 
-Nephris (tiefling warlock, 💀), Quinys (half-elf warlock, 💀), ??? (human warlock, 💀); Fiva (half-elf warlock), Frank "The Anchor" Ankerson (human fighter), Kalrali (half-orc cleric); ~1493 DR. [🎲](/ "Sam, July 2018")
+Nephris (tiefling warlock, 💀), Quinys (half-elf warlock, 💀), Urth (human warlock, 💀); Fiva (half-elf warlock), Frank "The Anchor" Ankerson (human fighter), Kalrali (half-orc cleric); ~1493 DR. [🎲](/ "Sam, July 2018")
 
 #### [Tomb of Annihilation][toa]
 
