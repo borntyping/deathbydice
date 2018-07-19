@@ -15,11 +15,5 @@ A member of a company of mercenaries, you've ensured you're part of an expeditio
 Players have a few things to do before the campaign starts:
 
 * [Create a character on D&D Beyond][beyond-toa]
-* [Answer questions on game mechanics][mechanics]
-* [Answer questions on your character][characters]
 
-As a group, we'll also work out the details of the party and the company they work for.
-
-[mechanics]: https://goo.gl/forms/C168KvCRfrrtEo103
-[characters]: https://goo.gl/forms/tyajMj83r334qrkx2
 [beyond-toa]: https://ddb.ac/campaigns/join/609212022921041
