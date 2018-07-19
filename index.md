@@ -8,7 +8,7 @@ title: Home
 
 #### Princes of the Apocalypse
 
-Aaron (human sorcerer), Lynn (human monk), Rhen (water genasi cleric), Solas (goliath paladin); 1491 DR (2016AD). [🎲](/ "Sam, 2016-2017")
+Aaron (human sorcerer), Herendil (half-elf rogue, 💀), Lynn (human monk), Rhen (water genasi cleric), Solas (goliath paladin); 1491 DR (2016AD). [🎲](/ "Sam, 2016-2017")
 
 ### Season 2
 
