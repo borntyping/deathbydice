@@ -22,7 +22,7 @@ Kilubash (half-orc barbarian, 💀), Margaret (human paladin, 💀), Roux (gnome
 
 ### Season 3
 
-#### [Tales from the Yawning Portal][tftyp]
+#### Sunless Citadel
 
 Nephris (tiefling warlock, 💀), Quinys (half-elf warlock, 💀), Urth (human warlock, 💀); Fiva (half-elf warlock), Frank "The Anchor" Ankerson (human fighter), Kalrali (half-orc cleric); ~1493 DR. [🎲](/ "Sam, July 2018")
 
