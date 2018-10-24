@@ -50,6 +50,8 @@ title: Home
 * Quinys (half-elf warlock, 💀)
 * Urth (human warlock, 💀)
 
+
+
 * Fiva (half-elf warlock)
 * Frank "The Anchor" Ankerson (human fighter)
 * Kalrali (half-orc cleric)
