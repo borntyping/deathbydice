@@ -44,13 +44,13 @@ title: Home
 
 #### Sunless Citadel
 
-~1493 DR; _Sunless Citadel_ and _The Shore of Dreams_. [🎲](/ "Sam, July 2018 to September 2018")
+~1493 DR; _Sunless Citadel_. [🎲](/ "Sam, July 2018")
 
 * Nephris (tiefling warlock, 💀)
 * Quinys (half-elf warlock, 💀)
 * Urth (human warlock, 💀)
 
-
+~1493 DR; _Sunless Citadel_ and _The Shore of Dreams_. [🎲](/ "Sam, July 2018 to September 2018")
 
 * Fiva (half-elf warlock)
 * Frank "The Anchor" Ankerson (human fighter)
