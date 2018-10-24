@@ -24,11 +24,20 @@ Kilubash (half-orc barbarian, 💀), Margaret (human paladin, 💀), Roux (gnome
 
 #### Sunless Citadel
 
-Nephris (tiefling warlock, 💀), Quinys (half-elf warlock, 💀), Urth (human warlock, 💀); Fiva (half-elf warlock), Frank "The Anchor" Ankerson (human fighter), Kalrali (half-orc cleric); ~1493 DR. [🎲](/ "Sam, July 2018")
+Nephris (tiefling warlock, 💀), Quinys (half-elf warlock, 💀), Urth (human warlock, 💀); Fiva (half-elf warlock), Frank "The Anchor" Ankerson (human fighter), Kalrali (half-orc cleric); ~1493 DR. 
+Included _Sunless Citadel_ and _The Shore of Dreams_.
+[🎲](/ "Sam, July 2018 to September 2018")
 
 #### [Tomb of Annihilation][toa]
 
-~1493 DR. [🎲](/ "Sam Clements, 2018")
+Grum Keghand (dwarf fighter),
+Liesos Vern (human druid),
+Terry "The Teacup" Winderson (aquatic half-elf sorcerer),
+Thom Smith (human cleric),
+Verdant (arrakocra driud);
+~1493 DR.
+Included _Cellar of Death_ and _Tomb of Annihilation_.
+[🎲](/ "Sam Clements, October 2018")
 
 ## Notes
 
