@@ -50,7 +50,7 @@ title: Home
 * Quinys (half-elf warlock, 💀)
 * Urth (human warlock, 💀)
 
-~1493 DR; _Sunless Citadel_ and _The Shore of Dreams_. [🎲](/ "Sam, July 2018 to September 2018")
+~1493 DR; _Sunless Citadel_, _The Dawn Chasers_, _The Shore of Dreams_. [🎲](/ "Sam, July 2018 to September 2018")
 
 * Fiva (half-elf warlock)
 * Frank "The Anchor" Ankerson (human fighter)
