@@ -5,9 +5,10 @@ permalink: /house-rules/
 published: true
 ---
 
-* Advancement is done using milestones rather than XP.
-* Encumbrance is not used.
-* Used the fixed hit point value for your class.
-* Ability scores should use point buy (with 27 points).
-* Multiclassing is not used. Occasional exceptions are made for plot reasons.
-* Additional sourcebooks are allowed. It's suggested but not required that you keep to the Player's Handbook plus one additional sourcebook, based on the rule used for the D&D Adventurer's League.
+Characters can be built from any offical D&D 5E rulebooks, excluding content from outside the Forgotten Realms (such as Eberron). 
+In most adventures characters should use content from the Player's Handbook plus one additional book - though this is a guideline, not a rule.
+
+* Initial ability scores use point buy (with 27 points).
+* Characters use the "Milestone" advancement type.
+* Characters use the fixed hit point value for their class.
+* The optional multiclassing and encumbrance rules are not used.
