@@ -84,6 +84,15 @@ title: Home
 * Sound of an arrow striking (kenku rogue)
 * Roseni (human paladin)
 
+### Season 4
+
+1494 DR; _Tower of the Mad Mage_. [🎲](/ "Sam Clements, March 2019")
+
+* Lodi Mur Talaan (hobgoblin sorcerer)
+* Marvin Longstaff (human wizard)
+* Rizes (half-elf sorcerer)
+* Rodah (dragonborn paladin)
+
 ## Notes
 
 * [House rules][house-rules]
