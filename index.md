@@ -95,7 +95,7 @@ title: Home
 * Rizes (half-elf sorcerer)
 * Rodah (dragonborn paladin)
 
-#### Tower of the Mad Mage
+#### Tyranny of Dragons
 
 1494 DR; _Hoard of the Dragon Queen_. [🎲](/ "Sam Clements, March 2019")
 
