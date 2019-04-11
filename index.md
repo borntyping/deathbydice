@@ -4,7 +4,7 @@ title: Home
 
 ## Campaigns
 
-### Season 1
+### 1491
 
 #### Princes of the Apocalypse
 
@@ -16,7 +16,7 @@ title: Home
 * Rhen (water genasi cleric)
 * Solas (goliath paladin)
 
-### Season 2
+### 1492
 
 #### Curse of Strahd
 
@@ -32,7 +32,7 @@ title: Home
 
 #### [Lost Mine of Phandelver][lmop]
 
-1493 DR. [🎲](/ "Sam, March 2018 to May 2018")
+1492 DR. [🎲](/ "Sam, March 2018 to May 2018")
 
 * Kilubash (half-orc barbarian, 💀)
 * Margaret (human paladin, 💀)
@@ -40,7 +40,7 @@ title: Home
 * Sora (dragonborn sorcerer)
 * Varis (elf wizard, 💀)
 
-### Season 3
+### 1493
 
 #### Forge of Fury
 
@@ -84,7 +84,9 @@ title: Home
 * Sound of an arrow striking (kenku rogue)
 * Roseni (human paladin)
 
-### Season 4
+### 1494
+
+#### Tower of the Mad Mage
 
 1494 DR; _Tower of the Mad Mage_. [🎲](/ "Sam Clements, March 2019")
 
@@ -92,6 +94,15 @@ title: Home
 * Marvin Longstaff (human wizard)
 * Rizes (half-elf sorcerer)
 * Rodah (dragonborn paladin)
+
+#### Tower of the Mad Mage
+
+1494 DR; _Hoard of the Dragon Queen_. [🎲](/ "Sam Clements, March 2019")
+
+* Edge of the World (tabaxi monk)
+* Rodah (dragonborn paladin)
+* Theren Winderson (elf wizard)
+* Tolas (half-elf sorcerer)
 
 ## Notes
 
