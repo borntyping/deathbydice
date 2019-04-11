@@ -20,7 +20,7 @@ title: Home
 
 #### Curse of Strahd
 
-1492 DR. _Death House_ and _Curse of Strahd_. [🎲](/ "Sam, April 2017 to May 2018")
+1492 DR; _Death House_ and _Curse of Strahd_. [🎲](/ "Sam, April 2017 to May 2018")
 
 * Anak (dragonborn bard)
 * Barry (badger animal companion)
@@ -32,7 +32,7 @@ title: Home
 
 #### [Lost Mine of Phandelver][lmop]
 
-1492 DR. [🎲](/ "Sam, March 2018 to May 2018")
+1492 DR; _Lost Mine of Phandelver_. [🎲](/ "Sam, March 2018 to May 2018")
 
 * Kilubash (half-orc barbarian, 💀)
 * Margaret (human paladin, 💀)
