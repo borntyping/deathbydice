@@ -104,11 +104,15 @@ title: Home
 * Theren Winderson (elf wizard)
 * Tolas (half-elf sorcerer)
 
-## Notes
+## House rules
 
-* [House rules][house-rules]
+Characters can be built from any offical D&D 5E rulebooks using any content that applies the Forgotten Realms. As a guideline, characters should be built using the Players Handbook and a limit of one or two additional books.
+
+* Initial ability scores use point buy (with 27 points).
+* Characters use the "Milestone" advancement type.
+* Characters use the fixed hit point value for their class.
+* The optional multiclassing rules are not used.
 
 [lmop]: lost-mine-of-phandelver.md
 [toa]: tomb-of-annihilation.md
 [tftyp]: tales-from-the-yawning-portal.md
-[house-rules]: house-rules.md
