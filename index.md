@@ -104,6 +104,16 @@ title: Home
 * Theren Winderson (elf wizard)
 * Tolas (half-elf sorcerer)
 
+#### Ghosts of Saltmarsh
+
+1494 DR; _Ghosts of Saltmarsh_. [⚔️](/ "Ridley, May 2019")
+
+* Vandenilis Vanazath (triton paladin)
+* Yarulg (orc barbarian)
+* Zailyvia (tiefling wizard)
+* Meris (tiefling rogue)
+* Rahumi (half-orc druid)
+
 ## House rules
 
 Characters can be built from any offical D&D 5E rulebooks using any content that applies the Forgotten Realms. As a guideline, characters should be built using the Players Handbook and a limit of one or two additional books.
