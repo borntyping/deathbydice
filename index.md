@@ -69,12 +69,13 @@ title: Home
 
 1493 DR; _Cellar of Death_ and _Tomb of Annihilation_. [🎲](/ "Sam Clements, October 2018 onwards")
 
-* Grum Keghand (dwarf fighter)
+* Grum Keghand (dwarf fighter, ☠️)
 * Liesos Vern (human druid, ☠️)
 * Terry "The Teacup" Winderson (aquatic half-elf sorcerer)
-* Thom Smith (human cleric)
+* Thom Smith (human cleric, ☠️)
 * Verdant (arrakocra driud)
 * Lylliva (human druid)
+* Akadius (dragonborn rogue)
 
 #### Tomb of Horrors
 
