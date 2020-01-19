@@ -11,13 +11,14 @@ Hellnight Hill
 --------------
 
 During **Breechill**'s monthly call Call for Heros we pledged to help the **Bumblebrasher** tribe, whose distress signals rose from the nearby **Citadel Altaerein**.
-The Call for Heros was interrupted by a fire, after which witnesses described **Calmont Trenault** summoning a fire mephit and setting fire to the building.
+The Call for Heros was interrupted - witnesses described **Calmont Trenault** summoning a fire mephit and setting the building alight.
 
-We later encountered Calmont at Citadel Altaerein where he was holding a goblin hostage, and talked about searching for **Alseta's Ring**.
+We later encountered Calmont at Citadel Altaerein where he was holding the leader of the Bumblebrashers hostage.
 The Bumblebrashers had been displaced from the lower levels of the Citadel, and were unable to return.
 Calmont was captured and returned to Breechill to stand trial, and the Bumblebrashers made camp in the forest nearby.
+Our questioning didn't help much, but we leared Calmont was looking for **Alseta's Ring**, and didn't think much of his former boss **Voz Lirayne**.
 
-After Calmont's trial we tried to find **Voz Lirayne**, owner of the Reliant Book Company.
+After Calmont's trial we tried to find Voz Lirayne, owner of the Reliant Book Company.
 We found a note inside her trapped office, describing the entrance to Alseta's Ring under **Gaurdian's Way**.
 Gaurdian's Way consists of three treetop platforms in the woods make for the Goblinblood Wars.
 
