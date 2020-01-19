@@ -1,3 +1,9 @@
+---
+title: Age of Ashes
+author: Sam Clements
+published: true
+---
+
 Age of Ashes
 ============
 
