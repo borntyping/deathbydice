@@ -67,7 +67,7 @@ title: Home
 
 #### [Tomb of Annihilation][toa]
 
-1493 DR; _Cellar of Death_ and _Tomb of Annihilation_. [🎲](/ "Sam Clements, October 2018 onwards")
+1493 DR; _Cellar of Death_ and _Tomb of Annihilation_. [🎲](/ "Sam, October 2018 to December 2019")
 
 * Grum Keghand (dwarf fighter, ☠️)
 * Liesos Vern (human druid, ☠️)
@@ -79,7 +79,7 @@ title: Home
 
 #### Tomb of Horrors
 
-1493 DR; _Tomb of Horrors_. [🎲](/ "Sam Clements, November 2018")
+1493 DR; _Tomb of Horrors_. [🎲](/ "Sam, November 2018")
 
 * Sound of a lute string trembling (kenku bard)
 * Sound of an arrow striking (kenku rogue)
@@ -89,7 +89,7 @@ title: Home
 
 #### Tower of the Mad Mage
 
-1494 DR; _Tower of the Mad Mage_. [🎲](/ "Sam Clements, March 2019")
+1494 DR; _Tower of the Mad Mage_. [🎲](/ "Sam, March 2019")
 
 * Lodi Mur Talaan (hobgoblin sorcerer)
 * Marvin Longstaff (human wizard)
@@ -98,7 +98,7 @@ title: Home
 
 #### Tyranny of Dragons
 
-1494 DR; _Hoard of the Dragon Queen_. [🎲](/ "Sam Clements, March 2019")
+1494 DR; _Hoard of the Dragon Queen_. [🎲](/ "Sam, March 2019 to Febuary 2020")
 
 * Edge of the World (tabaxi monk)
 * Rodah (dragonborn paladin)
@@ -114,6 +114,17 @@ title: Home
 * Zailyvia (tiefling wizard)
 * Meris (tiefling rogue)
 * Rahumi (half-orc druid)
+
+### 1495
+
+#### Rise of the Dragon Queen
+
+1495 DR; _Rise of the Dragon Queen_. [🎲](/ "Sam, March 2020 - ongoing")
+
+* Amity (tiefling bard)
+* Jacqueline Harpell-McLeod (human fighter)
+* Theren Winderson (elf wizard)
+* Tolas (half-elf sorcerer)
 
 ## House rules
 
